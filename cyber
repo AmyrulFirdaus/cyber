@@ -1,0 +1,2187 @@
+<html>
+<head>
+	<title> e-Cyberpreneurship </title>
+	<link rel="stylesheet" href="CSS/jquery.mobile.theme-1.2.0.min.css" type="text/css" /> 
+	<link rel="stylesheet" href="CSS/jquery.mobile.structure-1.2.0.min.css" type="text/css" />
+	
+<!--jquery.mobile.theme-1.2.0.min.css -->
+	<script src="JS/jquery-1.8.3.min.js"></script>
+	<script src="JS/jquery.mobile-1.2.0.min.js"></script>
+</head>
+<body>
+ <div data-role="page" data-theme="" id="splash" width="320" height="240">
+  <div class="splash">
+    <p align="center"><img src="Logo_Cyber.png"></p>
+
+<script type='text/javascript'>//<![CDATA[ 
+            $(window).load(function(){
+            $(function() {
+                setTimeout(hideSplash, 2000);
+                        });
+
+            function hideSplash() {
+            $.mobile.changePage("#home", "fade");
+            }
+
+
+            });//]]>  
+        </script>
+		
+	</div>
+ </div>
+ 
+ <div data-role="page" id="home"> 
+
+   <div data-role="header" data-backbtn="false">
+    <a href="#splash" data-icon="back"> Back </a>
+    <h1> e-Cyberprenuership </h1>
+   </div>
+   
+   <div data-role="content" data-theme="b">
+	<ul data-role="listview" data-inset="true" data-divider-theme="a">
+		<li data-role="list-divider"> </li>
+			<li><a href="#page2">ABOUT</a></li>
+			<li><a href="#page3">CHAPTER</a></li>
+			<li><a href="#page10" >CREDITS</a></li>
+		</ul>
+	<center><video id="video" width="320" height="240" autobuffer controls>
+	<source src="video1.mp4" type="video/mp4" onclick="this.play()"/>
+	</video></center>
+	
+    </div>	
+	<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+	</div>
+</div>
+	
+	
+		<div data-role="page" id="page2" data-theme="a">
+		<ul data-role="listview" data-inset="true" data-divider-theme="b">
+		<div data-role="header">
+		<div data-role="navbar">
+			<ul>
+				<li><a href="#home">HOME</a></li>
+			</ul>
+		</div>
+		</div>
+		<center><h2>ABOUT</h2></center>
+		<div data-role="content" data-theme="b">
+	
+		<center><IMG SRC="Pic1_About.png"WIDTH="350" HEIGHT="390"></center>
+		</div>
+		<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+		</div>
+		</div>
+	
+		<div data-role="page" id="page3" data-theme="b">
+			<div data-role="header">
+			<div data-role="navbar">
+				<ul>
+					<li><a href="#home">HOME</a></li>
+					<li><a href="#page3">CHAPTER</a></li>
+				</ul>
+			</div>
+			</div>
+		
+	<div data-role="content" data-theme="b">
+	
+	<ul data-role="listview" data-inset="true" data-divider-theme="a">
+		<li data-role="list-divider"> </li>
+			<li><a href="#page4" >Chapter 1 &nbsp;(INTELLECTUAL PROPERTY)</a></li>
+			<li><a href="#page5" >Chapter 2 &nbsp;(PLANNING AND ORGANIZING A BUSINESS)</a></li>
+			<li><a href="#page6" >Chapter 3 &nbsp;(FINANCING THE BUSINESS)</a></li>
+			<li><a href="#page7" >Chapter 4 &nbsp;(PRODUCT MARKETING)</a></li>
+			<li><a href="#page8" >Chapter 5 &nbsp;(BUSINESS PLAN)</a></li>
+			<li><a href="#page9" >FINAL EXAM QUESTION</a></li>
+			<li><a href="#page11" >TAKE QUIZ NOW</a></li>
+	</ul>
+    </div>
+	
+	<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+	</div>
+</div>
+		
+		<!-- CHAPTER 1 -->  <!-- CHAPTER 1 -->   <!-- CHAPTER 1 -->
+		
+<div data-role="page" id="page4" data-theme="a">
+	<div data-role="navbar">
+			<ul>
+				<li><a href="#home">HOME</a></li>
+				<li><a href="#page3">CHAPTER</a></li>
+			</ul>
+		</div>
+		<center><h2>INTELLECTUAL PROPERTY</h2></center>
+		<div data-role="content" data-theme="b">
+		
+		<!-- This defines the whole collapsible set (accordion) -->
+		<div data-role="collapsible-set">
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>SUMMARY</h2>
+			
+		<u1>
+		<div align="justify">
+		This topic introduces the concept of cyberpreneurship and ebusiness, the difference between a conventional entrepreneur and a cyberpreneur, the current and future challenges and opportunities of a cyber business. 
+		The topic also discusses on the success story of a successful e-business, and the intellectual property of a product.<br></FONT></div>
+		</u1>
+		</div>
+		</div>
+			
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>COURSE LEARNING OUTCOME (CLO)</h2>
+			
+		<u1>
+		<div align="justify">
+		<li>Upon completion of this course, students should be able to:</li><br>
+		<li>Explain the basics of cyberpreneural management, financing and marketing in order to be a successful cyberpreneur. (C4)</li>
+		
+		</u1>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>COURSE LEARNING OUTCOME (CLO)</h2>
+			
+		<u1>
+		<div align="justify">
+		<li>Entrepreneuer comes from French word which are entre (to enter) and prendre (to take).</li><br>
+		<li>An entrepreneur is an innovator who recognizes and seizes opportunities, and transform it to workable/marketable ideas</li>
+		<li>Individual who takes risks and getting rewards from their effort</li>
+		<li>According to Robert L Schwarz, what is the basis for entrepreneurship characteristics can be described as follows: “The entrepreneur is essentially can visualize something, and when he visualizes it he sees exactly how to make it happen.”</li>
+		<li>Others emphasize the entrepreneur's role as an innovator who markets his innovation.</li>
+		<li>Spontaneous creativity.</li>
+		<li>Ability and willingness to make decisions.</li>
+		<li>Risk-taking personality.</li>
+		<li>Need to create something new.</li>
+		<li>Highly independent.</li>
+		<li>Able to manage most aspects of the business.</li>
+		</u1>
+		</div>
+		</div>
+
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>DIFFERENCE BETWEEN BUSINESSMAN AND ENTERPRENEURSHIP</h2>
+		<u1>
+		<center><IMG SRC="Difference_Chapter1_Cyber.png"WIDTH="350" HEIGHT="200"></center >
+		</u1>
+		</div>
+
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>CHARACTERISTIC</h2>
+		<u1>
+		<center><IMG SRC="Characteristic_Chapter1_Cyber.png" WIDTH="350" HEIGHT="200"></center>
+		</u1>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>CYBERPRENEURSHIP</h2>
+		<u1>
+		<div align="justify">
+		<FONT FACE="Times New Roman"SIZE="2" COLOR="BLACK" >
+		<b>Cyberpreneur</b> <br>
+		•	Generally is an entrepreneurs who make money by selling product through the Internet.<br>
+		<p>
+		<B>Cyberpreneurship<br>
+		•	In this case the entrepreneur to do promotions using electronic brochure which is known as the homepage on the Internet. Sales of products and services also use electronic mail on the Internet. 
+		<br><br><br></B></FONT></div>
+		<center><IMG SRC="CharacteristicOfSuccessfullEntrepreneurship_Chapter1_Cyber.png"WIDTH="350" HEIGHT="200"></center>
+		</u1>
+		</div>
+
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>ENTERPRENEURSHIP vs CYBERPRENEURSHIP</h2>
+		<u1>
+		<FONT FACE="Times New Roman"SIZE="2" COLOR="BLACK" ><center>
+		Entrepreneur = Product + Market= profits<br>
+		Cyber Entrepreneur = Product +Market +  Internet = profits
+		</center></FONT>
+		</u1>
+		</div>
+
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>E-BUSSINESS</h2>
+		<u1>
+		<div align="justify">
+		<FONT FACE="Times New Roman"SIZE="2" COLOR="BLACK" >
+		<li>Electronic business, commonly referred to as "eBusiness" or "e-business", may be defined as the application of information and communication technologies (ICT) in support of all the activities of business.</li><br>
+		<li>Ebusiness is a term used to describe businesses run on the Internet, or utilizing Internet technologies to improve the productivity or profitability of a business.</li>
+		<li>Types of E-Bussiness</li>
+			&nbsp; i) Business to Business or B2B <br>
+			&nbsp; ii) Business to Consumer or B2C <br>
+			&nbsp; iii) Consumer to Consumer or C2C <br>
+			&nbsp; iv) Consumer to Business or C2B 
+	
+		<li>Scope Of E-Bussiness</li>
+		<center><IMG SRC="ScopeOfE-Bussiness_Cyber.png"WIDTH="350" HEIGHT="200"></center>
+		<br><br><br></B></FONT></div>
+		</u1>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>INTELLECTUAL PROPERTY</h2>
+		<u1>
+		<div align="justify">
+		<FONT FACE="Times New Roman"SIZE="2" COLOR="BLACK" >
+		<li>Intellectual property (IP) refers to creations of the mind: inventions, literary and artistic works, and symbols, names, images, and designs used in commerce.</li><br>
+		<li>Importance of Intelectual Property</li>
+			&nbsp;   &nbsp; - Set your business apart from competitors. <br>
+			&nbsp;   &nbsp; - Stop others using, making, selling or importing it without your permission. <br>
+			&nbsp;   &nbsp; - Earn royalties by licensing it.<br>
+			&nbsp;   &nbsp; - Exploit it through strategic alliances<br>
+			&nbsp;   &nbsp; - Make money by selling it<br>
+			&nbsp;   &nbsp; -  Use in marketing and advertisement <br>
+		<p>
+		<li> To protect IP rights, Malaysia has local legislation like the IP Corporation of Malaysia Act 2002, Trademarks Act 1976, Patents Act 1983, Copyright Act 1987, Industrial Design Act 1996, Layout Designs and Integrated Circuit Act 2000, Geographical Indications Act 2000 and Optical Discs Act 2000.</li> <br>
+		<li> Visit official web site of Intellectual Property Organization (Perbadanan Harta Intelek Malaysia) http://www.myipo.gov.my </li> <br>
+		<li>Types of Intellectual Property :</li>
+		<p>
+
+		<ul><li>Copyright</li></ul>
+		<p>
+		<center><IMG SRC="Copyright_Cyber.png"WIDTH="350" HEIGHT="300"></center><br>
+		<center><IMG SRC="copyright2_cyber.png"WIDTH="350" HEIGHT="150"></center>
+		<p><br>
+			<ul><li>Patent</li></ul><br>
+	
+    
+			<ul><li>Trademarks</li></ul><br>
+
+		<br><br><br></FONT></div>
+		</u1>
+		</div>
+		</div>
+		
+		<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+		</div>
+		</div>
+	
+
+
+			<!-- CHAPTER 2 -->  <!-- CHAPTER 2 -->   <!-- CHAPTER 2 -->
+
+<div data-role="page" id="page5" data-theme="a">
+	<div data-role="navbar">
+			<ul>
+				<li><a href="#home">HOME</a></li>
+				<li><a href="#page3">CHAPTER</a></li>
+			</ul>
+		</div>
+		<center><h2>PLANNING AND ORGANIZING A BUSINESS</h2></center>
+		<div data-role="content" data-theme="b">
+		
+		<!-- This defines the whole collapsible set (accordion) -->
+		<div data-role="collapsible-set">
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>SUMMARY</h2>
+			
+		<u1>
+		<div align="justify">
+		This topic describes the various types, requirements, and ways of starting a business. 
+		The topic also discusses how to manage a business and sources to acquire support to start a new business.
+		
+		</u1>
+		</div>
+		</div>
+
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>COURSE LEARNING OUTCOME
+(CLO)</h2>
+		<u1>
+		<div align="justify">
+			Organize a good cyber business plan to implement a business system that is sustainable for future expansion
+[CLO2]
+		</u1>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>INTRODUCTION</h2>
+		<u1>
+		<div align="justify">
+<table><FONT FACE="Century Schoolbook"SIZE="2" COLOR="BLACK" ><B> 
+<li>A business can be defined as an organization that provides goods and services to others who want or need them. It includes every form of trade, commerce, craftsmanship, occupation, profession or other activities that is carried out for the purpose of maximizing profit. 
+ </li><br>
+<li>There are four (4) forms of business:</li><br>
+<ul>
+<li>Sole Proprietorship </li>
+<li>PARTNERSHIP </li>
+<li>PRIVATE LIMITED COMPANY</li>
+<li>PUBLIC LIMITED COMPANY </li>
+</ul></li><br><br></FONT></B></table>
+		</u1>
+		</div>
+		</div>
+		
+				<div data-role="collapsible" data-collapsed="true">
+			<h2>SOLE PROPRIETORSHIP  </h2>
+		<u1>
+		<div align="justify">
+<table><FONT FACE="Century Schoolbook"SIZE="2" COLOR="BLACK" ><B> 
+<li>The simplest business structure</li>
+<li>May have any number of employees</li>
+<li> Requires a small amount of capital to start with</li>
+<li>Only Malaysian citizens or permanent residents can register as an owner</li>
+<li>Examples: tailor shops, beauty saloons, restaurants, launderettes and mini market</li><br></FONT></B></table>
+
+		<center><IMG SRC="Pic1_Topic2.png"WIDTH="350" HEIGHT="200"></center ><br>
+		<center><IMG SRC="Pic5_Topic2.png"WIDTH="350" HEIGHT="200"></center ><br>
+		</u1>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>PARTNERSHIP </h2>
+		<u1>
+		<div align="justify">
+		<table><FONT FACE="Century Schoolbook"SIZE="2" COLOR="BLACK" ><B> 
+<li>A legal business entity with two or more partners but not exceeding 20 persons</li>
+<li>Partners carry out the business, share the capital, profits and losses</li>
+<li>Partnerships comprise two or more business partners pooling their resources in a business with a view to profit.</li>
+<li>only Malaysian citizens or permanent residents can register partnerships</li>
+<li>Personal names or trade names can be used as business names</li>
+
+<li>Types of partner</li>
+	<ul> 
+		<li>Active partners:</li><br>
+		The partners who actively participate in the day-to-day operations of the business are known as active partners. They contribute capital and are also entitled to share the profits of the business. They also share the losses that the business faces.<br>
+		<li>sDormant partners:</li><br>
+		Those partners who do not participate in the day-to-day activities of the partnership firm are known as dormant or “sleeping partners”. They only contribute capital and share the profits or bear the losses, if any.<br>
+		<li>Nominal partners:</li><br>
+		These partners “only” allow the firm to use their “name” as a partner. They “do not” have any real interest in the business of the firm. They do not invest any capital, or share profits and also do not take part in the business of the firm.<br>
+		<li>Minor as a partner:</li><br>
+		In special cases a minor can be admitted as partner with certain conditions. A minor can only share the profit of the business. In case of loss his liability is limited to the extent of his capital contribution for the business.<br>
+		<br></FONT></B></table>
+		<center><IMG SRC="Pic2_Topic2.png"WIDTH="350" HEIGHT="200"></center ><br>
+		<center><IMG SRC="Pic6_Topic2.png"WIDTH="350" HEIGHT="200"></center ><br>
+		</u1>
+		</div>
+		</div>
+		
+		
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>PRIVATE LIMITED COMPANY</h2>
+		<u1>
+		<div align="justify">
+<table><FONT FACE="Century Schoolbook"SIZE="2" COLOR="BLACK" ><B> 
+<li>Cannot sell shares to the public</li>
+<li>Distinguished by the appellation "Sendirian Berhad", shortened to "Sdn Bhd" or "S/B“ </li>
+<li>Private limited company is limited to 50 members, minimum 2 members</li>
+<li>A minimum paid-up capital of only RM2 is needed to start a private limited company</li>
+<br></FONT></B></table>
+		<center><IMG SRC="Pic3_Topic2.png"WIDTH="350" HEIGHT="200"></center ><br>
+		<center><IMG SRC="Pic7_Topic2.png"WIDTH="350" HEIGHT="200"></center ><br>
+		</u1>
+		</div>
+		</div>
+
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>PUBLIC LIMITED COMPANY</h2>
+		<u1>
+		<div align="justify">
+<table><FONT FACE="Century Schoolbook"SIZE="2" COLOR="BLACK" ><B> 
+<li>Source their capital by selling shares to the public</li>
+<li>Distinguished by the appellation "Berhad", shortened to "Bhd".</li>
+<li>Public limited companies have no member limit</li>
+<li>Need a paid-up capital of not less than RM40mil or RM60mil</li>
+<br></FONT></B></table>
+		<center><IMG SRC="Pic4_Topic2.png"WIDTH="350" HEIGHT="200"></center ><br>
+		<center><IMG SRC="Pic8_Topic2.png"WIDTH="350" HEIGHT="200"></center ><br>
+		</u1>
+		</div>
+		</div>
+		</div>
+		</div>
+		
+		<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+		</div>
+		</div>
+			
+		
+		
+		<!-- CHAPTER 3 -->  <!-- CHAPTER 3 -->   <!-- CHAPTER 3 -->
+		
+		<div data-role="page" id="page6" data-theme="a">
+	<div data-role="navbar">
+			<ul>
+				<li><a href="#home">HOME</a></li>
+				<li><a href="#page3">CHAPTER</a></li>
+			</ul>
+		</div>
+		
+		<center><h2>FINANCING THE BUSINESS</h2></center>
+		<div data-role="content" data-theme="b">
+		
+		<div data-role="collapsible-set">
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>SUMMARY</h2>
+			
+		<u1>
+		<div align="justify">
+		This topic covers the fundamentals of financial management of a business and explains how to produce a financial statement.
+
+		
+		</u1>
+		</div>
+		</div>
+
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>COURSE LEARNING OUTCOME
+(CLO)</h2>
+		<u1>
+		<div align="justify">
+		Understand the business's financial. Define accounting in business. Describe the importance of financial management in business. (CLO1)
+
+		</u1>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>DEFINE ACCOUNTING IN BUSINESS</h2>
+			
+				<div data-role="collapsible" data-collapsed="true">
+			<h2>What is Accounting?</h2>
+		<u1>
+		<div align="justify">
+		<li>Accounting is the recording of financial transactions plus storing, sorting, retrieving, summarizing, and presenting the information in various reports and analyses.</li><br>
+
+		<li>It is a way of assessing the assets, liabilities and cash flow, or the future of an entity for all current and future investors.</li><br>
+
+		<li>Without accounting, organizations would have no basis or foundation upon which daily and long-term decisions could be made.</li><br>
+
+		</u1>
+		</div>
+		</div>
+				
+				<div data-role="collapsible" data-collapsed="true">
+			<h2>Importance of Accounting</h2>
+		<u1>
+		<div align="justify">
+		<li>Accounting is important to business because:</li>
+		<ul>
+		<li>It is the base that offers great support to management for planning, controlling as well as decision making process.</li><br>
+		<li>Its logical records make possible to get rid of the frauds and the thefts.</li><br>
+		<li>It provides a company with an organized way to manage their funds and expenses. If money is not budgeted, the business cannot properly plan the success of their organization.</li><br>
+		</ul>
+		</u1>
+		</div>
+		</div>
+		
+	</div>
+		
+		
+		
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>IMPORTANCE OF FINANCIAL MANAGEMENT IN BUSINESS</h2>
+		
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>What is Finance?</h2>
+			
+		<u1>
+			<div align="justify">
+			<li>Finance is defined in numerous ways by different groups of people.</li>
+			<ul>
+			<li><b>In General Sense</b></li>
+				<ul>Finance is the management of money and other valuables, which can be easily converted into cash.</ul><br>
+			<li><b>According To Experts</b></li>
+				<ul>Finance is a simple task of providing the necessary funds (money) required by the business of entities like companies, firms, individuals and others on the terms that are most favorable to achieve their economic objectives.</ul><br>
+			<li><b>According To Entrepreneurs</b></li>
+				<ul>Finance is concerned with cash. It is so, since, every business transaction involves cash directly or indirectly.</ul><br>
+			<li><b>According To Academicians</b></li>
+				<ul>Finance is the procurement (to get, obtain) of funds and effective (properly planned) utilization of funds. It also deals with profits that adequately compensate for the cost and risks borne by the business.</ul><br>
+			</ul>
+			
+			<li>Finance to be more precise is concerned with the management of:</li>
+				<ul>
+					<li>Owned funds (promoter contribution)</li><br>
+					<li>Raised funds (equity share, preference share, etc.)</li><br>
+					<li>Borrowed funds (loans, debentures, overdrafts, etc.)</li><br>
+					<li>At the same time, Finance also encompasses wider perspective of managing the business generated assets and other valuables more efficiently.</li>
+				</ul>
+			</div>
+		</u1>
+	
+		</div>
+			
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>How is Finance Related to the Disciplines of Accounting and Economics?</h2>
+			
+		<u1>
+			<div align="justify">
+			<li>Financial management is essentially a combination of accounting and economics.</li><br>
+			<li>First, financial managers use accounting information balance sheets, income statements, and so on to analyze, plan, and allocate financial resources for business firms.</li><br>
+			<li>Second, financial managers use economic principles to guide them in making financial decisions that are in the best interest of the firm. </li><br>
+			<li>In other words, finance is an applied area of economics that relies on accounting for input.</li>
+			
+			</div>
+		</u1>
+	
+			</div>
+		
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>What is Financial Management?</h2>
+			
+		<u1>
+			<div align="justify">
+			<li>It is the process you use to put your numbers to work to make your business more successful. With a good financial management system, you will know not only how your business is doing financially, but why. </li><br>
+			<li>And you will be able to use it to make decisions to improve the operation of your business.</li><br>
+			<li>Is broadly concerned with the acquisition and use of funds by a business firm.</li><br>
+			<li>Its scope may be defined in terms of the following questions:</li>
+				<ul>
+					<li>How large should the firm be and how fast should it grow?</li>
+					<li>What should be the composition of the firm's assets?</li>
+					<li>What should be the mix of the firm's financing?</li>
+					<li>How should the firm analyze, plan and control its financial affairs</li>
+				</ul>
+			</div>
+		</u1>
+	
+		<center><IMG SRC="Pic1_Topic3.png"WIDTH="350" HEIGHT="200"></center ><br>
+			</div>
+		
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>Functions of Financial Management</h2>
+			
+		<u1>
+			<div align="justify">
+			<li>Planning for funds </li><br>
+			<li>Allocation of resources</li><br>
+			<li>Control of funds</li><br>
+			<li>Allocation of income</li>
+			<li>Coordination with other departments</li><br>
+			<li>Routine functions:</li>
+				<ul>
+					<li>Keeping record of every transaction and account safely</li>
+					<li>Keeping the cash balances properly and safely</li>
+					<li>Securities of important documents</li>
+					<li>Management of pension and welfare schemes</li>
+					<li>Providing information to top management</li>
+					<li>Obeying government rules and regulations</li>
+				</ul>
+
+			</div>
+		</u1>
+	
+			</div>
+			
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>Importance of Financial Management in Business?</h2>
+			
+		<u1>
+			<div align="justify">
+			<li>A good financial management system enables you to accomplish important big picture and daily financial objectives. </li><br>
+			<li>A good financial management system helps you become a better macro manager by enabling you to:</li><br>
+		
+				<ul>
+					<li>Manage proactively rather than reactively.</li>
+					<li>Borrow money more easily; not only can you plan ahead for financing needs, but sharing your budget with your banker will help in the loan approval process.</li>
+					<li>Provide financial planning information for investors.</li>
+					<li>Make your operation more profitable and efficient.</li>
+					<li>Access a great decision-making tool for key financial considerations.</li>
+				</ul>
+
+			</div>
+		</u1>
+	
+			</div>
+	</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>FINANCIAL TERMS</h2>
+		<u1>
+		<div align="justify">
+			<li>Asset</li>
+				<ul>
+					<li>An asset is an economic resource.</li>
+					<li>Property with a cash value that is owned by a business or individual</li>
+					<li>Two types of asset</li>
+						<ul>
+						<li>Fixed asset</li>
+						<li>Current asset</li>
+						</ul>
+				</ul>
+				<center><IMG SRC="Pic2_Topic3.png"WIDTH="350" HEIGHT="200"></center ><br>
+			<p>
+			<li>Equity</li>
+				<ul>
+					<li>Ownership claim on total assets.</li>
+					<li>This figure represents the total amount invested by the stockholders plus the accumulated profit of the business.</li>
+					<li>Capital, Drawings, etc</li>
+				</ul>
+			<p>
+			<li>Liability</li>
+				<ul>
+					<li>Claims against assets (debts and obligations).</li>
+					<li>Creditors - party to whom money is owed.</li>
+					<li>Accounts payable, Notes payable, etc.</li>
+				</ul>
+			<p>
+			<li>Expense</li>
+				<ul>
+					<li>Expenses are the cost of assets consumed or services used in the process of earning revenue.</li>
+					<li>Common expenses are: salaries expense, rent expense, utilities expense, tax expense, etc.</li>
+				</ul>
+			<p>
+			<li>Revenue</li>
+				<ul>
+					<li>Revenues result from business activities entered into for the purpose of earning income.</li>
+					<li>Common sources of revenue are: sales, fees, services, commissions, interest, dividends, royalties, and rent.</li>
+				</ul>
+			</div>
+		</div>
+				
+
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>FINANCIAL STATEMENTS</h2>
+		<u1>
+		<div align="justify">
+			<ul>
+			<li>The first step in developing a financial management system is the creation of financial statements. To manage proactively, you should plan to generate financial statements on a monthly basis.</li><br>
+			<li>Your financial statements should include profit and loss account, a balance sheet and a cash-flow </li>
+			</ul>
+			
+			<li><b>Profit And Loss Account</b></li>
+				<ul>
+					<li>This statement also known as Income Statement</li><br>
+					<li>The income statement is important because it shows the profitability of a company during the time interval specified in its heading. The period of time that the statement covers is chosen by the business and will vary.</li><br>
+					<li>Covers a period of time usually monthly/quarterly/yearly.</li><br>
+					<li>It have 2 major section:</li>
+						<ul>
+							<li>Sales</li>
+							<li>Expenses</li>
+							   (Sales - Expenses = Net Profit)
+						</ul><br>
+					<li>If the net amount of revenues and gains minus expenses and losses is positive, the bottom line of the profit and loss statement is labeled as net income. If the net amount (or bottom line) is negative, there is a net loss.</li>
+				</ul>
+					<center><IMG SRC="Pic3_Topic3.png"WIDTH="350" HEIGHT="200"></center ><br>
+				<br>
+				<ul>
+					<li><b>Sales</b><br>
+					This is the gross revenue generated from the sale and allowances (reduction in price for discounts taken by customers).</li><br>		
+					<li><b>Cost of goods sold</b><br>
+					This is the direct cost associated with manufacturing. These costs include materials used, direct labor, plant manager salaries, freight and other costs associated with operating a plant (for example, utilities, equipment repairs, etc.).</li><br>
+					<li><b>Gross profit</b><br>
+					The gross profit represents the amount of direct profit associated with the actual manufacturing. It's calculated as sales less the cost of goods sold.</li><br>
+					<li><b>Operating expenses</b><br>
+					These are the selling, general and administrative expenses that are necessary to run the business. Examples include office salaries, insurance, advertising, sales commissions and rent.</li><br>
+					<li><b>Net profit</b><br>
+					This is the "bottom line" earnings of the business.</li>
+				</ul>
+			
+				<ul>
+					<li>An asset is an economic resource.</li>
+					<li>Property with a cash value that is owned by a business or individual</li>
+					<li>Two types of asset</li>
+						<ul>
+						<li>Fixed asset</li>
+						<li>Current asset</li>
+						</ul>
+				</ul>
+			<li><b>Balance Sheet</b></li>
+				<ul>
+					<li>Captures everything a business owns and owes at a "point of time".</li><br>
+					<li>The uses of balance sheet is to Snapshot of all your assets as well as  your liabilities at that time</li><br>
+					<li>The difference between these two numbers is the total equity in your business.</li><br>
+					<li>Divided into two section</li>
+						<ul>
+							<li>Assets</li>
+							<li>Liabilities and Owner Equity</li>
+						</ul><br>
+					<li>Total Asset =Total Liabilities and Owner Equity.</li><br>
+					<li>Balance sheet is known as double entry bookkeeping – enable you to check that all transactions are recorded properly.</li><br>
+					<li>Increase in asset will cause increment in equity or liabilities.</li><br>
+					<li>To balance it, Total Asset – Total Liabilities = Owner Equity which represent past income / invested capital + income earned during current accounting period.</li><br>
+				</ul>
+				<center><IMG SRC="Pic4_Topic3.png"WIDTH="350" HEIGHT="200"></center ><br>
+			<p>
+			<li><b>Cash Flow Statement</b></li>
+				<ul>
+					<li>The cash-flow statement is designed to convert the accrual basis of accounting used to prepare the income statement and balance sheet back to a cash basis.</li><br>
+					<li>The CFS allows investors to understand how a company's operations are running, where its money is coming from, and how it is being spent.</li><br>
+					<li>Like the income statement, the cash-flow statement measures financial activity over a period of time. The cash-flow statement also tracks the effects of changes in balance sheet accounts.</li><br>
+					<li>Show only cash: cash coming in and cash going out and what your balance of cash at the end of designated periods of time.</li><br>
+					<li>The cash flow statement is useful in the determination of the company's liquidity in a given period of time.</li><br>
+					<li>Cash Balance = Starting Cash + Total Inflows - Total Outflows</li><br>
+					<li>Projection should be made for 12 months period then extended to four years or more.</li>
+				</ul>
+				<center><IMG SRC="Pic5_Topic3.png"WIDTH="350" HEIGHT="200"></center ><br>
+			</div>
+			</div>
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>VIDEO OF LEARNING ACCOUNT</h2>
+			
+			<center><B>EXAMPLE 1</B></center>
+			<center><video id="video" width="320" height="240" autobuffer controls>
+			<source src="video1.mp4" type="video/mp4" onclick="this.play()"/>
+			</video></center>
+			</div>
+		</div>
+		</div>
+		</div>
+		
+		<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+		</div>
+		</div>
+		
+		
+
+
+	<!-- CHAPTER 4 -->  <!-- CHAPTER 4 -->   <!-- CHAPTER 4 -->
+
+<div data-role="page" id="page7" data-theme="a">
+		<div data-role="navbar">
+			<ul>
+				<li><a href="#home">HOME</a></li>
+				<li><a href="#page3">CHAPTER</a></li>
+			</div>
+			<center><h2>PRODUCT MARKETING</h2></center>
+	<div data-role="content" data-theme="b">
+	<div data-role="content">
+	<div data-role="listview" data-inset="true" data-divider-theme="e"></div>
+		
+		<div data-role="collapsible-set">
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>Adidas</h2>
+			
+		<u1>
+		
+			<li>Shoes: RM200++</li>
+			<li>Buy Two Free One</li>
+			<li>Member Card</li>
+			
+			<br><p align="center"><img src="adidas2.jpg"><img src="adidas3.jpg"><img src="adidas1.jpg"</p></br>
+			
+		</u1>
+			
+		</div>
+
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>Nike</h2>
+		<u1>
+		
+			<li>Shoes: RM250++</li>
+			<li>Buy Two Free One</li>
+			<li>Member Card</li>
+			
+			<br><p align="center"><img src="nike3.jpg"><img src="nike1.jpg"><img src="nike2.jpg"</p></br>
+			
+		</u1>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>Speedo</h2>
+		<u1>
+		
+			<li>Shoes: RM120++</li>
+			<li>Buy Two Free One</li>
+			<li>Member Card</li>
+			
+			<br><p align="center"><img src="speed2.jpg"><img src="speed1.jpg"><img src="speed3.jpg"</p></br>
+			
+		</u1>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>Fila</h2>
+		<u1>
+		
+			<li>Shoes: RM80++</li>
+			<li>Buy Two Free One</li>
+			<li>Member Card</li>
+			
+			<br><p align="center"><img src="fila2.jpg"><img src="fila3.jpg"><img src="fila1.jpg"</p></br>
+			
+		</u1>
+		</div>	
+	</div>
+	</div>
+	</div>
+	
+	<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+	</div>
+	</div>
+
+
+
+<!-- CHAPTER 5 -->  <!-- CHAPTER 5 -->   <!-- CHAPTER 5 -->
+
+<div data-role="page" id="page8" data-theme="a">
+		<div data-role="navbar">
+			<ul>
+				<li><a href="#home">HOME</a></li>
+				<li><a href="#page3">CHAPTER</a></li>
+			</ul>
+		</div>
+		<center><h2>BUSINESS PLAN & CYBER BUSINESS</h2></center>
+	<div data-role="content" data-theme="b">
+	<div data-role="collapsible-set">
+			<div data-role="collapsible" data-collapsed="true">
+			<h2>SUMMARY</h2>
+			
+		<u1>
+		<div align="justify">
+		This topic explains the procedure of creating a business plan creating a cyber business from the developed business plan.
+
+		
+		</u1>
+		</div>
+		</div>
+
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>COURSE LEARNING OUTCOME
+(CLO)</h2>
+		<u1>
+			<div align="justify">
+			Organize a good cyber business plan to implement a business system that is sustainable for future expansion. (CLO2)<br>
+			<p>
+			Communicate professionally with others to ensure that the business thrives. (CLO3)
+		</u1>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>WHAT IS BUSINESS PLAN</h2>
+			
+		<u1>
+		<div align="justify">
+		<ul>
+		<li>Business Plan is a written document that provides information on the business or project to be undertaken as a whole. It includes management plan, marketing plan, operations plan, and finance plan. </li><br>
+		<li>The information contained in the Business Plan used to make feasibility expectations, predicting success and recommending strategies for the projects involved.</li><br>
+		<li>A business plan is any plan that works for a business to look ahead, allocate resources, focus on key points, and prepare for problems and opportunities. </li><br>
+		<li>Businesses need plans to optimise growth and development according to priorities.</li><br>
+		</ul>
+		</u1>
+		</div>
+		</div>
+				
+				<div data-role="collapsible" data-collapsed="true">
+			<h2>THE IMPORTANCE OF BUSINESS PLAN</h2>
+		<u1>
+		<div align="justify">
+		<b>1. As a guide to managing business</b>
+		<ul><li>Describe the steps that  entrepreneurs should taken and guidelines that must be followed by the organization</li><br></ul>
+		<b>2. Assess and review business performance</b>
+		<ul><li>Know the strengths, weaknesses, and potential of the underlying business under review from time to time</li><br></ul>
+		<b>3. Facilitate control</b>
+		<ul><li>Control is follow the schedule to make sure the business so smooth and streamlined</li><br></ul>
+		<b>4. Provide assurance to external parties </b>
+		<ul><li>Careful planning to assure stakeholders such as banks, creditors and investors</li><br></ul>
+		<b>5. Maximize resources to increase productivity</b>
+		<ul><li>Organizational sources such as money, capital, machinery, and people used to the optimum</li><br></ul>
+		</u1>
+		</div>
+		</div>
+		
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>TIPS ON PREPARING A BUSINESS PLAN</h2>
+			
+		<center><IMG SRC="Pic1_Topic5.png"WIDTH="350" HEIGHT="200"></center ><br>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>BUSINESS PLAN CONTENT</h2>
+			
+		<center><IMG SRC="Pic2_Topic5.png"WIDTH="350" HEIGHT="200"></center ><br>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>Executive Summary</h2>
+		
+		<div align="justify">
+		<li>Identify the company, its background, structure and location</li><br>
+		<li>Describe what the company does, and the market it serves</li><br>
+		<li>Describe the market potential for the company’s products and services, market trends, etc.</li><br>
+		<li>Outline the backgrounds and experience of the top management team</li><br>
+		<li>Describe the funding required, the purposes for which it will be used, the collateral available (if for a lender), and the expected outcomes</li><br>
+		<li>Do it in one or two pages</li><br>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>Company Overview</h2>
+		
+		<div align="justify">
+		<li>Mission statement</li>
+		<li>Market and products</li>
+		<li>Location, size, history</li>
+		<li>Objectives</li><br>
+		<li>Overview of company capabilities</li>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>Products/Services</h2>
+		
+		<div align="justify">
+		<li>Products / Services</li>
+		<ul><li>What does it do?</li></ul>
+		<ul><li>Competitive Advantage</li></ul>
+		<li>Technology</li>
+		<ul><li>Brief description</li></ul>
+		<ul><li>Applications</li></ul>
+		<li>Commercialization Status</li>
+		<ul><li>Brief overview</li></ul>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>Products/Services</h2>
+		
+		<div align="justify">
+		<li>Products / Services</li>
+		<ul><li>What does it do?</li></ul>
+		<ul><li>Competitive Advantage</li></ul>
+		<li>Technology</li>
+		<ul><li>Brief description</li></ul>
+		<ul><li>Applications</li></ul>
+		<li>Commercialization Status</li>
+		<ul><li>Brief overview</li></ul>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>Industry Overview</h2>
+		
+		<div align="justify">
+		<li>Set The Stage</li>
+		<li>Industry Definition and Description</li>
+		<ul><li>Major players within the industry</li></ul>
+		<ul><li>Factors driving dynamics</li></ul>
+		<ul><li>New products and developments</li></ul>
+		<li>Legislation and Policies Driving the Industry</li>
+		<li>Historical and Future Trends</li>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>Market Analysis</h2>
+		
+		<div align="justify">
+		<li>Market Definition</li>
+		<ul><li>Primary Market</li></ul>
+		<ul><li>Secondary Markets</li></ul>
+		<li>Market Size and Trends</li>
+		<ul><li>Current total revenues</li></ul>
+		<ul><li>Predicted annual growth rate</li></ul>
+		</div>
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>Competitors</h2>
+		
+		<div align="justify">
+		<li>Direct Competitors</li>
+		<ul><li>Who are they?</li></ul>
+		<ul><li>Size and product breadth</li></ul>
+		<ul><li>Revenues and profitability</li></ul>
+		<ul><li>Strengths and weaknesses</li></ul>
+		<ul><li>Market shares</li></ul>
+		<li>Indirect Competitors</li>
+		</div>
+		</div>
+		
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+			<h2>CYBER BUSINESS</h2>
+		
+		<div align="justify">
+		<li>There are many advantages of cyber business over the traditional business. Cyber business is more than e-commerce.</li><br>
+		<li>There are some set rules and principles of cyber business by following which an organization can enhance revenue as well as over all profit in cyber business</li><br>
+		<li>Few of the very common principles of cyber business </li>
+		<ul><li>Customer trust</li></ul>
+		<ul><li>Security measures in electronic transaction system</li></ul>
+		<ul><li>Cyber law in cyberspace</li></ul>
+		<li>There are several planning required to develop a successful cyber business.</li>
+		<li>The planning required</li>
+		<ul><li>Business plan</li></ul>
+		<ul><li>Web site design plan</li></ul>
+		<ul><li>Marketing plan</li></ul>
+		<ul><li>Financial plan</li></ul>
+		<ul><li>Management plan</li></ul>
+		<li>Criteria to be prepared prior to start a cyber business</li>
+		<ul><li>Online business legal structure</li></ul>
+		<ul><li>Business licenses and insurances</li></ul>
+		<ul><li>Accounting / bookkeeping system</li></ul>
+		<ul><li>Business bank account</li></ul>
+		<li>Steps to create a cyber business</li>
+		<ul><li>Business name</li></ul>
+		<ul><li>Website development</li></ul>
+		<ul><li>Website launching</li></ul>
+		<ul><li>Website marketing</li></ul>
+		<ul><li>Website update and maintenance</li></ul>
+		
+		</div>
+		</div>
+		</div>
+	</div>
+	<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+	</div>
+	</div>
+
+<!-- EXAM QUESTION -->  <!-- EXAM QUESTION -->   <!-- EXAM QUESTION -->
+
+<div data-role="page" id="page9" data-theme="a">
+		<div data-role="navbar">
+			<ul>
+				<li><a href="#home">HOME</a></li>
+				<li><a href="#page3">CHAPTER</a></li>
+			</ul>
+		</div>
+	<center><h2>FINAL EXAM QUESTION</h2></center>
+		<div data-role="content" data-theme="b">
+	
+	<div data-role="content">
+	<div data-role="listview" data-inset="true" data-divider-theme="b"></div>
+		
+		<div data-role="collapsible-set">	
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>SESSION JUNE 2012</h2>
+	
+		<center><object data="SESSION_JUNE_2012.pdf" type="application/pdf" width="100%" height="100%">
+		It appears you don't have a PDF plugin for this browser.
+		No biggie... you can <a href="SESSION_JUNE_2012.pdf">click here to
+		download the PDF file.</a></object></center>
+		
+		</div>
+		
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>SESSION DEC 2012</h2>
+	
+		<center><object data="SESSION_DEC_2012.pdf" type="application/pdf" width="100%" height="100%">
+		It appears you don't have a PDF plugin for this browser.
+		No biggie... you can <a href="SESSION_DEC_2012.pdf">click here to
+		download the PDF file.</a></object></center>
+		
+		</div>
+	</div>
+	</div>
+	</div>
+	
+	<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+	</div>
+	</div>
+
+
+<!-- CREDIT -->  <!-- CREDIT -->   <!-- CREDIT -->
+
+<div data-role="page" id="page10" data-theme="a">
+		<div data-role="navbar">
+			<ul>
+				<li><a href="#home">HOME</a></li>
+			</ul>
+		</div>
+	<center><h2>CREDITS</h2></center>
+		<div data-role="content" data-theme="b">
+	
+		<center><IMG SRC="Pic1_Credits.png"WIDTH="350" HEIGHT="390"></center>
+		</div>
+		
+		<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+		</div>
+		</div>
+		
+		
+
+<!-- TAKE A QUIZ-->  <!-- TAKE A QUIZ -->   <!-- TAKE A QUIZ -->
+
+<div data-role="page" id="page11" data-theme="a">
+		<div data-role="navbar">
+			<ul>
+				<li><a href="#home">HOME</a></li>
+				<li><a href="#page3">CHAPTER</a></li>
+			</ul>
+		</div>
+	<center><h2>QUIZ</h2></center>
+		<div data-role="content" data-theme="b">
+	
+	<div data-role="content">
+	<div data-role="listview" data-inset="true" data-divider-theme="b"></div>
+		
+		
+		<!-- QUIZ CHAPTER 1 -->			<!-- QUIZ CHAPTER 1 -->				<!-- QUIZ CHAPTER 1 -->
+		
+		
+		<div data-role="collapsible-set">	
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>QUIZ CHAPTER 1</h2>
+	
+		<HEAD>
+		<div data-role="content" data-theme="e">
+<script LANGUAGE="JavaScript">
+
+var ans = new Array;
+var done = new Array;
+var yourAns = new Array;
+var explainAnswer = new Array;
+
+var score = 0;
+ans[1] = "c";
+ans[2] = "d";
+ans[3] = "d";
+ans[4] = "d";
+ans[5] = "a";
+ans[6] = "a";
+ans[7] = "b";
+ans[8] = "c";
+ans[9] = "b";
+ans[10] = "a";
+
+function Engine(question, answer) {
+yourAns[question]=answer;
+}
+
+function Score()
+{var answerText = "How did you do?\n------------------------------------\n";
+for(i=1;i<=10;i++){
+answerText=answerText+"\nQuestion :"+i+"\n";
+if(ans[i]!=yourAns[i]){
+answerText=answerText+"\nThe correct answer was "+ans[i]+"\n";
+}
+else{
+answerText=answerText+" \nCorrect! \n";
+score++;
+}
+}
+
+answerText=answerText+"\n\nYour total score is : "+score+"\n";
+
+//now score the user
+answerText=answerText+"\nComment : ";
+if(score<=0){
+answerText=answerText+"You need to learn some more";
+}
+if(score>=1 && score <=4){
+answerText=answerText+"bit more practice";
+}
+if(score>=7 && score <=7){
+answerText=answerText+"doing ok";
+}
+if(score>9){
+answerText=answerText+"You are one hot java babe!";
+}
+
+alert(answerText);
+
+}
+// End -->
+</script>
+
+</HEAD>
+
+<!-- STEP TWO: Copy this code into the BODY of your HTML document -->
+
+<BODY>
+
+<FORM>
+<b>
+<div data-role="fieldcontain">
+    <fieldset data-role="controlgroup">
+    	<legend>1. An entrepreneur is someone who<</legend>
+         	<input type="radio" name="q1" id="radio-choice-1" value="a" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-1">a) Creating a new organization in electronic market place.</label>
+
+         	<input type="radio" name="q1" id="radio-choice-2" value="b" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-2">b) Make money by selling product through the Internet.</label>
+
+         	<input type="radio" name="q1" id="radio-choice-3" value="c" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-3">c) Recognizes and seizes opportunities, and transform it to workable/marketable ideas.</label>
+
+         	<input type="radio" name="q1" id="radio-choice-4" value="d" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-4">d) Undertakes innovations, finance and business acumen in an effort to transform innovations into economic goods.</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>2.	Below is the characteristics of  an entrepreneur, EXCEPT</legend>
+         	<input type="radio" name="q2" id="radio-choice-1" value="a" onClick="Engine(2 this.value)" />
+         	<label for="radio-choice-1">a) Moderate risk taker</label>
+
+         	<input type="radio" name="q2" id="radio-choice-2" value="b" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-2">b) Following the reforms to enhance creativity</label>
+
+         	<input type="radio" name="q2" id="radio-choice-3" value="c" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-3">c) Introducing new products that can penetrate the normal</label>
+
+         	<input type="radio" name="q2" id="radio-choice-4" value="d" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-4">d) Not interested in technological developments and changes</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>3. Do promotions using electronic brochure which is known as the homepage on the Internet. Sales of products and services also use electronic mail on the Internet.</legend>
+         	<input type="radio" name="q3" id="radio-choice-1" value="a" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-1">a) Entrepreneur</label>
+
+         	<input type="radio" name="q3" id="radio-choice-2" value="b" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-2">b) Cyberpreneur</label>
+
+         	<input type="radio" name="q3" id="radio-choice-3" value="c" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-3">c) Entrepreneurship</label>
+
+         	<input type="radio" name="q3" id="radio-choice-4" value="d" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-4">d) Cyberpreneurship</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>4. Advantages of Sole proprietorship are</legend>
+         	<input type="radio" name="q4" id="radio-choice-1" value="a" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-1">a) Limited source of capital that could limit the business activity.</label>
+
+         	<input type="radio" name="q4" id="radio-choice-2" value="b" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-2">b) The owner pays income tax based on his total individual income.</label>
+
+         	<input type="radio" name="q4" id="radio-choice-3" value="c" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-3">c) As nobody shares the rewards of the business, all profits will go to the owner.</label>
+
+         	<input type="radio" name="q4" id="radio-choice-4" value="d" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-4">d) Easy to manage because the owner or proprietor can make decisions by himself.</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>5. Fees for registering sole proprietorship company is</legend>
+         	<input type="radio" name="q5" id="radio-choice-1" value="a" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-1">a) RM30</label>
+
+         	<input type="radio" name="q5" id="radio-choice-2" value="b" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-2">b) RM40</label>
+
+         	<input type="radio" name="q5" id="radio-choice-3" value="c" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-3">c) RM50</label>
+
+         	<input type="radio" name="q5" id="radio-choice-4" value="d" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-4">d) RM60</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>6. Choose the best answer for procedure to buy an existing bisness.</legend>
+         	<input type="radio" name="q6" id="radio-choice-1" value="a" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-1">a) Get professional advice -> Research ->Initial viewing and valuation-> Arrange finance->Negotiation -> Completion</label>
+
+         	<input type="radio" name="q6" id="radio-choice-2" value="b" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-2">b) Research -> Get professional advice -> Initial viewing and valuation-> Arrange finance->Negotiation -> Completion</label>
+
+         	<input type="radio" name="q6" id="radio-choice-3" value="c" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-3">c) Research -> Initial viewing and valuation-> Get professional advice->  Arrange finance->Negotiation -> Completion</label>
+
+         	<input type="radio" name="q6" id="radio-choice-4" value="d" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-4">d) Get professional advice->  Initial viewing and valuation-> Research ->  Arrange finance->Negotiation -> Completion</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>7. Where you can get the Form A ( Registering Bisness Form)</legend>
+         	<input type="radio" name="q7" id="radio-choice-1" value="a" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-1">a) Companies Commission of Malaysia</label>
+
+         	<input type="radio" name="q7" id="radio-choice-2" value="b" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-2">b) Malaysian Government's official portal</label>
+
+         	<input type="radio" name="q7" id="radio-choice-3" value="c" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-3">c) Local municipality</label>
+
+         	<input type="radio" name="q7" id="radio-choice-4" value="d" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-4">d) Lawyer</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>8. What is the function of franchisor to franchise, EXCEPT.</legend>
+         	<input type="radio" name="q8" id="radio-choice-1" value="a" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-1">a) Giving Support</label>
+
+         	<input type="radio" name="q8" id="radio-choice-2" value="b" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-2">b) Memorandum Of Understanding(MOU)</label>
+
+         	<input type="radio" name="q8" id="radio-choice-3" value="c" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-3">c) Manual Operation detail</label>
+
+         	<input type="radio" name="q8" id="radio-choice-4" value="d" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-4">d) Lawyer</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>9. Business Plan is a written document that describes business profit and loss position.</legend>
+         	<input type="radio" name="q9" id="radio-choice-1" value="a" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q9" id="radio-choice-2" value="b" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>10. Employees need the Business Plan as a guide carrying out their duties as expected by the employer.</legend>
+         	<input type="radio" name="q10" id="radio-choice-1" value="a" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q10" id="radio-choice-2" value="b" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	
+<CENTER>
+<input type=button onClick="Score()" value="Send For Marking">
+</CENTER>
+</FORM>
+<div>
+</div>
+		
+		</div>
+
+		</div>
+	</div>
+	
+	<!-- QUIZ CHAPTER 2 -->			<!-- QUIZ CHAPTER 2 -->				<!-- QUIZ CHAPTER 2 -->
+	
+	<div data-role="collapsible-set">	
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>QUIZ CHAPTER 2</h2>
+	
+		<HEAD>
+		<div data-role="content" data-theme="e">
+
+<script LANGUAGE="JavaScript">
+
+var ans = new Array;
+var done = new Array;
+var yourAns = new Array;
+var explainAnswer = new Array;
+
+var score = 0;
+ans[1] = "a";
+ans[2] = "d";
+ans[3] = "d";
+ans[4] = "c";
+ans[5] = "b";
+ans[6] = "a";
+ans[7] = "b";
+ans[8] = "a";
+ans[9] = "a";
+ans[10] = "a";
+
+function Engine(question, answer) {
+yourAns[question]=answer;
+}
+
+function Score()
+{var answerText = "How did you do?\n------------------------------------\n";
+for(i=1;i<=10;i++){
+answerText=answerText+"\nQuestion :"+i+"\n";
+if(ans[i]!=yourAns[i]){
+answerText=answerText+"\nThe correct answer was "+ans[i]+"\n";
+}
+else{
+answerText=answerText+" \nCorrect! \n";
+score++;
+}
+}
+
+answerText=answerText+"\n\nYour total score is : "+score+"\n";
+
+//now score the user
+answerText=answerText+"\nComment : ";
+if(score<=0){
+answerText=answerText+"You need to learn some more";
+}
+if(score>=1 && score <=4){
+answerText=answerText+"bit more practice";
+}
+if(score>=7 && score <=7){
+answerText=answerText+"doing ok";
+}
+if(score>9){
+answerText=answerText+"You are one hot java babe!";
+}
+
+alert(answerText);
+
+}
+// End -->
+</script>
+
+</HEAD>
+
+<!-- STEP TWO: Copy this code into the BODY of your HTML document -->
+
+<BODY>
+
+<FORM>
+<b>
+<div data-role="fieldcontain">
+    <fieldset data-role="controlgroup">
+    	<legend>1. Free gift with purchase is one of the item in</legend>
+         	<input type="radio" name="q1" id="radio-choice-1" value="a" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-1">a) Product promotions</label>
+
+         	<input type="radio" name="q1" id="radio-choice-2" value="b" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-2">b) Order promotion</label>
+
+         	<input type="radio" name="q1" id="radio-choice-3" value="c" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-3">c) Pricing promotion</label>
+
+         	<input type="radio" name="q1" id="radio-choice-4" value="d" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-4">d) All of the above</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>2.	The term marketing refers to</legend>
+         	<input type="radio" name="q2" id="radio-choice-1" value="a" onClick="Engine(2 this.value)" />
+         	<label for="radio-choice-1">a) Planning sales campaigns</label>
+
+         	<input type="radio" name="q2" id="radio-choice-2" value="b" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-2">b) Advertising and promotions activities</label>
+
+         	<input type="radio" name="q2" id="radio-choice-3" value="c" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-3">c) New product concepts and improvements</label>
+
+         	<input type="radio" name="q2" id="radio-choice-4" value="d" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-4">d) A philosophy that stresses customer value and satisfaction</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>3. This statement refer to? "Helps you track customers or companies, products, inventory, suppliers, expenses, things-to-do lists and invoicing" </legend>
+         	<input type="radio" name="q3" id="radio-choice-1" value="a" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-1">a) Planning</label>
+
+         	<input type="radio" name="q3" id="radio-choice-2" value="b" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-2">b) Organizing</label>
+
+         	<input type="radio" name="q3" id="radio-choice-3" value="c" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-3">c) Leading</label>
+
+         	<input type="radio" name="q3" id="radio-choice-4" value="d" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-4">d) Controlling</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>4. What is the meaning of Understand Customer?</legend>
+         	<input type="radio" name="q4" id="radio-choice-1" value="a" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-1">a) What is the best way to deliver your product or service to your target customers.</label>
+
+         	<input type="radio" name="q4" id="radio-choice-2" value="b" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-2">b) Ask yourself what other choices your target customers have to solve their pain point.</label>
+
+         	<input type="radio" name="q4" id="radio-choice-3" value="c" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-3">c) Develop a clear picture of your target customer using market research and analysis.</label>
+
+         	<input type="radio" name="q4" id="radio-choice-4" value="d" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-4">d) Continuously evaluate the effectiveness of your marketing strategy, and revise or extend as needed.</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>5. What is the meaning of Analyze Competition?</legend>
+         	<input type="radio" name="q5" id="radio-choice-1" value="a" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-1">a) What is the best way to deliver your product or service to your target customers.</label>
+
+         	<input type="radio" name="q5" id="radio-choice-2" value="b" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-2">b) Ask yourself what other choices your target customers have to solve their pain point.</label>
+
+         	<input type="radio" name="q5" id="radio-choice-3" value="c" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-3">c) Develop a clear picture of your target customer using market research and analysis.</label>
+
+         	<input type="radio" name="q5" id="radio-choice-4" value="d" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-4">d) Continuously evaluate the effectiveness of your marketing strategy, and revise or extend as needed.</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>6. Marketing strategy is a process that can allow an organization to concentrate its limited resources on the greatest opportunities to increase sales and achieve a sustainable competitive advantage.</legend>
+         	<input type="radio" name="q6" id="radio-choice-1" value="a" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q6" id="radio-choice-2" value="b" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>7. Define your marketing  in marketing strategies is continuously evaluate the effectiveness of your marketing strategy, and revise or extend as needed.</legend>
+         	<input type="radio" name="q7" id="radio-choice-1" value="a" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-1">a)TRUE</label>
+
+         	<input type="radio" name="q7" id="radio-choice-2" value="b" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>8. Branding sets your company, product or service apart from the competition is one of marketing functions.</legend>
+         	<input type="radio" name="q8" id="radio-choice-1" value="a" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q8" id="radio-choice-2" value="b" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>9. The best way to deliver your product or service to your target customers is Research Distribution Channels.</legend>
+         	<input type="radio" name="q9" id="radio-choice-1" value="a" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q9" id="radio-choice-2" value="b" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>10. Management philosophy according to which a firm's goals can be best achieved through identification and satisfaction of the customers' stated and unstated needs and wants.</legend>
+         	<input type="radio" name="q10" id="radio-choice-1" value="a" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q10" id="radio-choice-2" value="b" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	
+<CENTER>
+<input type=button onClick="Score()" value="Send For Marking">
+</CENTER>
+</FORM>
+<div>
+</div>
+		
+		</div>
+
+		</div>
+	</div>
+	
+	
+	<!-- QUIZ CHAPTER 3 -->			<!-- QUIZ CHAPTER 3 -->				<!-- QUIZ CHAPTER 3 -->
+	
+	<div data-role="collapsible-set">	
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>QUIZ CHAPTER 3</h2>
+	
+		<HEAD>
+		<div data-role="content" data-theme="e">
+
+<script LANGUAGE="JavaScript">
+
+var ans = new Array;
+var done = new Array;
+var yourAns = new Array;
+var explainAnswer = new Array;
+
+var score = 0;
+ans[1] = "c";
+ans[2] = "c";
+ans[3] = "c";
+ans[4] = "d";
+ans[5] = "a";
+ans[6] = "a";
+ans[7] = "b";
+ans[8] = "a";
+ans[9] = "a";
+ans[10] = "b";
+
+function Engine(question, answer) {
+yourAns[question]=answer;
+}
+
+function Score()
+{var answerText = "How did you do?\n------------------------------------\n";
+for(i=1;i<=10;i++){
+answerText=answerText+"\nQuestion :"+i+"\n";
+if(ans[i]!=yourAns[i]){
+answerText=answerText+"\nThe correct answer was "+ans[i]+"\n";
+}
+else{
+answerText=answerText+" \nCorrect! \n";
+score++;
+}
+}
+
+answerText=answerText+"\n\nYour total score is : "+score+"\n";
+
+//now score the user
+answerText=answerText+"\nComment : ";
+if(score<=0){
+answerText=answerText+"You need to learn some more";
+}
+if(score>=1 && score <=4){
+answerText=answerText+"bit more practice";
+}
+if(score>=7 && score <=7){
+answerText=answerText+"doing ok";
+}
+if(score>9){
+answerText=answerText+"You are one hot java babe!";
+}
+
+alert(answerText);
+
+}
+// End -->
+</script>
+
+</HEAD>
+
+<!-- STEP TWO: Copy this code into the BODY of your HTML document -->
+
+<BODY>
+
+<FORM>
+<b>
+<div data-role="fieldcontain">
+    <fieldset data-role="controlgroup">
+    	<legend>1. In Malaysia, the patent is protected for</legend>
+         	<input type="radio" name="q1" id="radio-choice-1" value="a" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-1">a) 15 Years</label>
+
+         	<input type="radio" name="q1" id="radio-choice-2" value="b" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-2">b) 10 Years</label>
+
+         	<input type="radio" name="q1" id="radio-choice-3" value="c" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-3">c) 20 Years</label>
+
+         	<input type="radio" name="q1" id="radio-choice-4" value="d" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-4">d) 5 Years</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>2. The following are types protected by Copyright Act 1969 EXCEPT</legend>
+         	<input type="radio" name="q2" id="radio-choice-1" value="a" onClick="Engine(2 this.value)" />
+         	<label for="radio-choice-1">a) Work of music</label>
+
+         	<input type="radio" name="q2" id="radio-choice-2" value="b" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-2">b) Work of Art</label>
+
+         	<input type="radio" name="q2" id="radio-choice-3" value="c" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-3">c) Web Design</label>
+
+         	<input type="radio" name="q2" id="radio-choice-4" value="d" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-4">d) Press</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>3. What is the function of DMCA</legend>
+         	<input type="radio" name="q3" id="radio-choice-1" value="a" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-1">a) The protection for authorship</label>
+
+         	<input type="radio" name="q3" id="radio-choice-2" value="b" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-2">b) To cover unique specific look, shape and design</label>
+
+         	<input type="radio" name="q3" id="radio-choice-3" value="c" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-3">c) The first major effort to adjust the copyright laws the internet age.</label>
+
+         	<input type="radio" name="q3" id="radio-choice-4" value="d" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-4">d) Grants the owner protection from anyone else making, using, or selling the identified invention</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>4. The sentence above referred to "Owners are granted certain exclusive rights to a variety of intangible assets, such as musical, literary, and artistic works; discoveries and inventions; and words, phrases, symbols, and designs."</legend>
+         	<input type="radio" name="q4" id="radio-choice-1" value="a" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-1">a) Trademark</label>
+
+         	<input type="radio" name="q4" id="radio-choice-2" value="b" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-2">b) Copyrights</label>
+
+         	<input type="radio" name="q4" id="radio-choice-3" value="c" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-3">c) Intellectual Property</label>
+
+         	<input type="radio" name="q4" id="radio-choice-4" value="d" onClick="Engine(4, this.value)"  />
+         	<label for="radio-choice-4">d) Intellectual Property Law</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>5. "A contract between the government and inventor". The sentence above referred to</legend>
+         	<input type="radio" name="q5" id="radio-choice-1" value="a" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-1">a) Patent</label>
+
+         	<input type="radio" name="q5" id="radio-choice-2" value="b" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-2">b) Trademark</label>
+
+         	<input type="radio" name="q5" id="radio-choice-3" value="c" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-3">c) Copyrights</label>
+
+         	<input type="radio" name="q5" id="radio-choice-4" value="d" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-4">d) Intellectual Property</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>6. Financial management is planning and organizing funds in the organizing</legend>
+         	<input type="radio" name="q6" id="radio-choice-1" value="a" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q6" id="radio-choice-2" value="b" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>7. Financing decision Determine the total amount of assets needed by a firm hence closely tied   to the allocation of funds</legend>
+         	<input type="radio" name="q7" id="radio-choice-1" value="a" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q7" id="radio-choice-2" value="b" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>8. Equity capital is money from the owner and investor.</legend>
+         	<input type="radio" name="q8" id="radio-choice-1" value="a" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q8" id="radio-choice-2" value="b" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>9. Purpose of business plan is to convince financial intuition to give loan.</legend>
+         	<input type="radio" name="q9" id="radio-choice-1" value="a" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q9" id="radio-choice-2" value="b" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>10. Business plan is a written document about organization financial.</legend>
+         	<input type="radio" name="q10" id="radio-choice-1" value="a" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q10" id="radio-choice-2" value="b" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	
+<CENTER>
+<input type=button onClick="Score()" value="Send For Marking">
+</CENTER>
+</FORM>
+<div>
+</div>
+		
+		</div>
+
+		</div>
+	</div>
+	
+	
+	
+	<!-- QUIZ CHAPTER 4 -->			<!-- QUIZ CHAPTER 4 -->				<!-- QUIZ CHAPTER 4 -->
+	
+	<div data-role="collapsible-set">	
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>QUIZ CHAPTER 4</h2>
+	
+		<HEAD>
+		<div data-role="content" data-theme="e">
+
+<script LANGUAGE="JavaScript">
+
+var ans = new Array;
+var done = new Array;
+var yourAns = new Array;
+var explainAnswer = new Array;
+
+var score = 0;
+ans[1] = "c";
+ans[2] = "b";
+ans[3] = "c";
+ans[4] = "d";
+ans[5] = "b";
+ans[6] = "a";
+ans[7] = "a";
+ans[8] = "b";
+ans[9] = "b";
+ans[10] = "a";
+
+function Engine(question, answer) {
+yourAns[question]=answer;
+}
+
+function Score()
+{var answerText = "How did you do?\n------------------------------------\n";
+for(i=1;i<=10;i++){
+answerText=answerText+"\nQuestion :"+i+"\n";
+if(ans[i]!=yourAns[i]){
+answerText=answerText+"\nThe correct answer was "+ans[i]+"\n";
+}
+else{
+answerText=answerText+" \nCorrect! \n";
+score++;
+}
+}
+
+answerText=answerText+"\n\nYour total score is : "+score+"\n";
+
+//now score the user
+answerText=answerText+"\nComment : ";
+if(score<=0){
+answerText=answerText+"You need to learn some more";
+}
+if(score>=1 && score <=4){
+answerText=answerText+"bit more practice";
+}
+if(score>=7 && score <=7){
+answerText=answerText+"doing ok";
+}
+if(score>9){
+answerText=answerText+"You are one hot java babe!";
+}
+
+alert(answerText);
+
+}
+// End -->
+</script>
+
+</HEAD>
+
+<!-- STEP TWO: Copy this code into the BODY of your HTML document -->
+
+<BODY>
+
+<FORM>
+<b>
+<div data-role="fieldcontain">
+    <fieldset data-role="controlgroup">
+    	<legend>1. Which of the following is NOT TRUE about entrepreneurship</legend>
+         	<input type="radio" name="q1" id="radio-choice-1" value="a" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-1">a) Entrepreneurship is the process of creating something with value.</label>
+
+         	<input type="radio" name="q1" id="radio-choice-2" value="b" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-2">b) Entrepreneurship is process of creating and developing business.</label>
+
+         	<input type="radio" name="q1" id="radio-choice-3" value="c" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-3">c) Entrepreneurship is one activity of creating wealth for the benefit of the entrepreneur.</label>
+
+         	<input type="radio" name="q1" id="radio-choice-4" value="d" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-4">d) Entrepreneurship encourages creativity and innovation in producing product or services.</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>2.	In the PEST framework for environmental analysis what does the letter E stand for?</legend>
+         	<input type="radio" name="q2" id="radio-choice-1" value="a" onClick="Engine(2 this.value)" />
+         	<label for="radio-choice-1">a) Ethical</label>
+
+         	<input type="radio" name="q2" id="radio-choice-2" value="b" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-2">b) Economic</label>
+
+         	<input type="radio" name="q2" id="radio-choice-3" value="c" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-3">c) Ecological</label>
+
+         	<input type="radio" name="q2" id="radio-choice-4" value="d" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-4">d) Educational</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>3. Political factors include government regulations and legal issues and define both formal and informal rules under which the firm must operate.</legend>
+         	<input type="radio" name="q3" id="radio-choice-1" value="a" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-1">a) tax policy</label>
+
+         	<input type="radio" name="q3" id="radio-choice-2" value="b" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-2">b) Cyberpreneur</label>
+
+         	<input type="radio" name="q3" id="radio-choice-3" value="c" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-3">c) economic growth</label>
+
+         	<input type="radio" name="q3" id="radio-choice-4" value="d" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-4">d) environmental regulations</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>4. Which of the following is NOT marketing activities?</legend>
+         	<input type="radio" name="q4" id="radio-choice-1" value="a" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-1">a) Distribute</label>
+
+         	<input type="radio" name="q4" id="radio-choice-2" value="b" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-2">b) Pricing</label>
+
+         	<input type="radio" name="q4" id="radio-choice-3" value="c" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-3">c) Promotion</label>
+
+         	<input type="radio" name="q4" id="radio-choice-4" value="d" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-4">d) Financial planning</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>5. "Right given to prevent others from printing, copying, or publishing any original works of authorship".	The statement refers to</legend>
+         	<input type="radio" name="q5" id="radio-choice-1" value="a" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-1">a) Intellectual property</label>
+
+         	<input type="radio" name="q5" id="radio-choice-2" value="b" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-2">b) Copyright</label>
+
+         	<input type="radio" name="q5" id="radio-choice-3" value="c" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-3">c) Patern</label>
+
+         	<input type="radio" name="q5" id="radio-choice-4" value="d" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-4">d) Trademarks</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>6. Channel of Distribution – a group of interrelated organization that directs the flow of products from producers to ultimate consumers</legend>
+         	<input type="radio" name="q6" id="radio-choice-1" value="a" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q6" id="radio-choice-2" value="b" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>7. Functions of wholesalers to retailers are supplying various kinds of goods.</legend>
+         	<input type="radio" name="q7" id="radio-choice-1" value="a" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q7" id="radio-choice-2" value="b" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>8. Mydin Supermarket is one of retailer channel.</legend>
+         	<input type="radio" name="q8" id="radio-choice-1" value="a" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q8" id="radio-choice-2" value="b" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>9. Financial statement means planning, organizing, directing and controlling the financial activities such as procurement and utilization of funds of the enterprise.</legend>
+         	<input type="radio" name="q9" id="radio-choice-1" value="a" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q9" id="radio-choice-2" value="b" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>10. The function of financial management is facilitating the entrepreneurs to manage existing assets.</legend>
+         	<input type="radio" name="q10" id="radio-choice-1" value="a" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q10" id="radio-choice-2" value="b" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	
+<CENTER>
+<input type=button onClick="Score()" value="Send For Marking">
+</CENTER>
+</FORM>
+</div>
+</div>
+		
+		</div>
+
+		</div>
+	</div>
+	
+	
+	<!-- QUIZ CHAPTER 5 -->			<!-- QUIZ CHAPTER 5 -->				<!-- QUIZ CHAPTER 5 -->
+	
+	<div data-role="collapsible-set">	
+		<div data-role="collapsible" data-collapsed="true">
+		<h2>QUIZ CHAPTER 5</h2>
+	
+		<HEAD>
+		<div data-role="content" data-theme="e">
+
+<script LANGUAGE="JavaScript">
+
+var ans = new Array;
+var done = new Array;
+var yourAns = new Array;
+var explainAnswer = new Array;
+
+var score = 0;
+ans[1] = "d";
+ans[2] = "d";
+ans[3] = "b";
+ans[4] = "c";
+ans[5] = "d";
+ans[6] = "a";
+ans[7] = "b";
+ans[8] = "a";
+ans[9] = "b";
+ans[10] = "a";
+
+function Score()
+{var answerText = "How did you do?";
+for(i=1;i<=10;i++){
+answerText=answerText+"\nQuestion :"+i+"\n";
+if(ans[i]!=yourAns[i]){
+answerText=answerText+"\nThe correct answer was "+ans[i]+"\n";
+ }
+else{
+answerText=answerText+" \nCorrect! \n";
+score++;
+}
+}
+
+answerText=answerText+"\n\nYour total score is : "+score+"\n";
+
+//now score the user
+answerText=answerText+"\nComment : ";
+if(score<=0){
+answerText=answerText+"You need to learn some more";
+}
+if(score>=1 && score <=4){
+answerText=answerText+"bit more practice";
+}
+if(score>=7 && score <=7){
+answerText=answerText+"doing ok";
+}
+if(score>9){
+answerText=answerText+"You are one hot java babe!";
+}
+
+alert(answerText);
+
+}
+// End -->
+</script>
+
+</HEAD>
+
+<!-- STEP TWO: Copy this code into the BODY of your HTML document -->
+
+<BODY>
+
+<FORM>
+<b>
+
+<div data-role="fieldcontain">
+    <fieldset data-role="controlgroup">
+    	<legend>1. What is distribution channel term?</legend>
+         	<input type="radio" name="q1" id="radio-choice-1" value="a" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-1">a) Determine the target market and identify customer needs and wants – to satisfy the customer.</label>
+
+         	<input type="radio" name="q1" id="radio-choice-2" value="b" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-2">b) Distribution affects the place or path through which consumers can buy and receive the product.</label>
+
+         	<input type="radio" name="q1" id="radio-choice-3" value="c" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-3">c) The quantity and quality of products coming off a production line will be closely monitored</label>
+
+         	<input type="radio" name="q1" id="radio-choice-4" value="d" onClick="Engine(1, this.value)" />
+         	<label for="radio-choice-4">d) Is a method of getting a product to its consumer.</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>2. The following are type of distribution channel, EXCEPT</legend>
+         	<input type="radio" name="q2" id="radio-choice-1" value="a" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-1">a) Manufactures --------------------------------------------------------------------> Customer</label>
+
+         	<input type="radio" name="q2" id="radio-choice-2" value="b" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-2">b) Manufactures ------------->  Wholesalers --------------> Retailers --------------> Customer</label>
+
+         	<input type="radio" name="q2" id="radio-choice-3" value="c" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-3">c) Manufactures -----------------------------> Retailers ---------------------------> Customer</label>
+
+         	<input type="radio" name="q2" id="radio-choice-4" value="d" onClick="Engine(2, this.value)" />
+         	<label for="radio-choice-4">d) Manufactures -----------> Retailers --------------> Wholesalers -----------------> Customer</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>3. In the PEST framework for environmental analysis what does the letter E stand for?</legend>
+         	<input type="radio" name="q3" id="radio-choice-1" value="a" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-1">a) Ethical</label>
+
+         	<input type="radio" name="q3" id="radio-choice-2" value="b" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-2">b) Economic</label>
+
+         	<input type="radio" name="q3" id="radio-choice-3" value="c" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-3">c) Ecological</label>
+
+         	<input type="radio" name="q3" id="radio-choice-4" value="d" onClick="Engine(3, this.value)" />
+         	<label for="radio-choice-4">d) Educational</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>4. Political factors include government regulations and legal issues and define both formal and informal rules under which the firm must operate.</legend>
+         	<input type="radio" name="q4" id="radio-choice-1" value="a" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-1">a) tax policy.</label>
+
+         	<input type="radio" name="q4" id="radio-choice-2" value="b" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-2">b) employment laws</label>
+
+         	<input type="radio" name="q4" id="radio-choice-3" value="c" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-3">c) economic growth</label>
+
+         	<input type="radio" name="q4" id="radio-choice-4" value="d" onClick="Engine(4, this.value)" />
+         	<label for="radio-choice-4">d) environmental regulations</label>
+    </fieldset>
+	<p> 
+	<fieldset data-role="controlgroup">
+    	<legend>5. Which of the following is NOT marketing activities?</legend>
+         	<input type="radio" name="q5" id="radio-choice-1" value="a" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-1">a) Distribute</label>
+
+         	<input type="radio" name="q5" id="radio-choice-2" value="b" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-2">b) Pricing</label>
+
+         	<input type="radio" name="q5" id="radio-choice-3" value="c" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-3">c) Promotion</label>
+
+         	<input type="radio" name="q5" id="radio-choice-4" value="d" onClick="Engine(5, this.value)" />
+         	<label for="radio-choice-4">d) Financial planning</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>6. One of the characteristic of successful entrepreneur is tolerance for failure.</legend>
+         	<input type="radio" name="q6" id="radio-choice-1" value="a" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q6" id="radio-choice-2" value="b" onClick="Engine(6, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>7. An example of web browser is Jaring.</legend>
+         	<input type="radio" name="q7" id="radio-choice-1" value="a" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q7" id="radio-choice-2" value="b" onClick="Engine(7, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>8. Cyberpreneurship is an independent entrepreneur creating a new organization in electronic marketplace.</legend>
+         	<input type="radio" name="q8" id="radio-choice-1" value="a" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q8" id="radio-choice-2" value="b" onClick="Engine(8, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>9. Scope of E-Business are E-banking, E-learning and E-consumer.</legend>
+         	<input type="radio" name="q9" id="radio-choice-1" value="a" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q9" id="radio-choice-2" value="b" onClick="Engine(9, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+	<fieldset data-role="controlgroup">
+    	<legend>10. The important of E-Business to Cyberpreneur are low cost and market area.</legend>
+         	<input type="radio" name="q10" id="radio-choice-1" value="a" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-1">a) TRUE</label>
+
+         	<input type="radio" name="q10" id="radio-choice-2" value="b" onClick="Engine(10, this.value)" />
+         	<label for="radio-choice-2">b) FALSE</label>
+    </fieldset>
+	<p>
+<CENTER>
+<input type=button onClick="Score()" value="Send For Marking">
+</CENTER>
+</FORM>
+<div>
+<div>
+		
+		</div>
+
+		</div>
+	</div>
+</div>
+</div>
+	<div data-role="footer" data-position="fixed">
+		<h4>&copy; AmyrulFirdaus_2014</h4>
+	</div>
+</div>
+
+	
+
+</body>
+</html>
